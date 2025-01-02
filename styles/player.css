@@ -1,0 +1,12 @@
+html{
+    background-color: teal;
+}
+
+div{
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.video-edit{
+    width: 50rem;
+}
